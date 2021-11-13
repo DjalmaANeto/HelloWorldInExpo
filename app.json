@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "webviewTests",
+    "slug": "webviewTests",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "webviewTests"
+}
